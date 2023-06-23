@@ -18,4 +18,4 @@ This project extracts some interesting stats on bikesharing for New York City, W
 
 ### Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I used ChatGPT and Stack Overflow to understand some concepts and get ideas of how others handle user input validation.
