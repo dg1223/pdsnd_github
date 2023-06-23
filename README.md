@@ -15,6 +15,7 @@ This project extracts some interesting stats on bikesharing for New York City, W
 - chicago.csv
 - new_york_city.csv
 - washington.csv
+- bikeshare.py
 
 ### Credits
 
