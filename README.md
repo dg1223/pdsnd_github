@@ -12,7 +12,9 @@ This project extracts some interesting stats on bikesharing for New York City, W
 
 ### Files used
 
-Include the files used
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
 
