@@ -11,7 +11,7 @@ CITY_DATA = {
 }
 
 
-def validate_input(user_input, valid_values, value_dict, prompt):
+def validate_input(user_input, valid_input_values, value_dict, prompt):
     """
     Validates the user input against a list of valid values.
 
@@ -25,7 +25,7 @@ def validate_input(user_input, valid_values, value_dict, prompt):
         str: The validated user input.
     """
 
-    while user_input.lower() not in valid_values:
+    while user_input.lower() not in valid_input_values:
         print("\n")
         print(f"Invalid input. Please enter a valid value as instructed.")
         print("\n")
