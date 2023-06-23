@@ -8,7 +8,7 @@ Udacity Bikeshare project (Python for Data Science Nanodegree)
 
 ### Description
 
-Describe what your project is about and what it does
+This project extracts some interesting stats on bikesharing for New York City, Washington and Chicago.
 
 ### Files used
 
