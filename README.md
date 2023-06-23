@@ -1,6 +1,6 @@
 ### Date created
 
-Include the date you created this project and README file.
+June 23, 2023
 
 ### Project Title
 
